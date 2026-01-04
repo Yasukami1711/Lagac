@@ -1,6 +1,6 @@
 # Lagac
 
-Lagac (Like-a-groq-ai-wrapper) は、Groq AI API を利用するためのコマンドラインインターフェース (CLI) クライアントです。
+Lagac (Like-a-groq-ai-cli) は、Groq AI API を利用するためのコマンドラインインターフェース (CLI) クライアントです。
 
 ## 特徴
 
